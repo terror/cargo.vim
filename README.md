@@ -7,7 +7,7 @@ Simple vim command bindings to quickly run cargo stuff from vim.
 Use your vim plugin manager of choice, for instance vim-plug:
 
 ```bash
-Plug 'terror/vim-cargo'
+Plug 'terror/cargo.vim'
 ```
 ### Usage
 
